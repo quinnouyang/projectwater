@@ -17,7 +17,7 @@ MonoBehaviour:
   m_Value:
     m_List:
     - stateName: disabled
-      stateEntered: {fileID: 8300000, guid: d14b106713a74b448bcab90869f1706e, type: 3}
+      stateEntered: {fileID: 0}
       stateExited: {fileID: 0}
     - stateName: idle
       stateEntered: {fileID: 0}
@@ -29,10 +29,10 @@ MonoBehaviour:
       stateEntered: {fileID: 0}
       stateExited: {fileID: 0}
     - stateName: selected
-      stateEntered: {fileID: 8300000, guid: d14b106713a74b448bcab90869f1706e, type: 3}
+      stateEntered: {fileID: 8300000, guid: 29790e86d5370884396d4798aad8545f, type: 3}
       stateExited: {fileID: 0}
     - stateName: activated
-      stateEntered: {fileID: 0}
+      stateEntered: {fileID: 8300000, guid: d14b106713a74b448bcab90869f1706e, type: 3}
       stateExited: {fileID: 0}
     - stateName: focused
       stateEntered: {fileID: 0}
