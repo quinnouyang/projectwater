@@ -1,6 +1,8 @@
-# Development
+# Contributing
 
-We have no dedicated development instructions (yet/ever) but here are some rambles/notes from Quinn as he struggles with Unity.
+We have no dedicated contributing instructions (yet/ever) but here are some development rambles/notes from Quinn as he struggles with Unity.
+
+# Development
 
 > Mostly dumbed down from the [XR toolkit docs](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.3/manual/index.html) and [VR template docs](https://docs.unity3d.com/Packages/com.unity.template.vr@8.0/manual/index.html).
 
