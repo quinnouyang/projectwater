@@ -4,6 +4,8 @@ A short VR music + dance experience.
 
 > _it's giving dance_ 💃
 
+![image](https://github.com/quinnouyang/projectwater/assets/90884224/7e7c1a4f-20fb-414e-9e7c-d65cc0c5ceac)
+
 # Development
 
 > Some development rambles/notes from Quinn as he struggles with Unity. Mostly dumbed down from the [XR toolkit docs](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.3/manual/index.html) and [VR template docs](https://docs.unity3d.com/Packages/com.unity.template.vr@8.0/manual/index.html).
